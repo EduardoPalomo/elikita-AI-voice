@@ -1,0 +1,52 @@
+.DS_Store
+node_modules
+/build
+/.svelte-kit
+/package
+.env
+.env.*
+!.env.example
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.log
+.env
+# Environment variables
+.env
+frontend/.env
+
+# Google Cloud credentials
+sa_speech_demo.json
+
+# Python virtual environment
+new_elikita_env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files (optional, but often helpful)
+.vscode/
+.idea/
+
+# Node modules (if you're using any JavaScript/Node.js in your project)
+node_modules/
+
+# Build outputs (if applicable)
+dist/
+build/
