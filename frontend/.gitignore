@@ -50,3 +50,7 @@ node_modules/
 # Build outputs (if applicable)
 dist/
 build/
+
+# Ignore Python virtual environment
+elikita_env_310/
+elikita_demo/
